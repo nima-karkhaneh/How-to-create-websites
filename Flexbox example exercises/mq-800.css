@@ -1,0 +1,13 @@
+body{
+    display: flex;
+}
+ul{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 200px;
+    height: 500px;
+    justify-content: start;
+}
+p{
+    height: 500px;
+}
