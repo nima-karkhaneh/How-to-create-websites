@@ -20,15 +20,14 @@ p{
     width: 100%;
     padding: 20px 20px;
 }
-.c1{
-    background-color: yellow;
-    width: 100%;
-    padding: 20px 20px;
-}
+
 Aside{
     background-color: pink;
     width: 100%;
     padding: 20px 20px;
+}
+aside:nth-child(4){
+    background-color: yellow;
 }
 footer{
     background-color: green;
