@@ -1,0 +1,33 @@
+html, body, div, ul{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+Div{
+    font-size: 8rem;
+    color: whitesmoke;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("tropics.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+ul {
+    font-size: 2.5rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: lavenderblush;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0 60px;
+}
+a:hover{
+    color: blue;
+}
