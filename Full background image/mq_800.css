@@ -1,0 +1,55 @@
+header{
+    background-color: rgba(0,0,0,0.6);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    height: 2rem;
+}
+header h1{
+    font-size: 1.8rem;
+    font-variant: all-petite-caps;
+    height: 2rem;
+}
+header div{
+    height: 2rem;
+    width: 500px;
+}
+#idx-atf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("background-photo-mobile-devices.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#idx-atf > div{
+    height: 80vh;
+    margin-top: 4rem;
+}
+.idx-header-style {
+    display: none;
+}
+nav{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: start;
+}
+a:hover{
+    background-color: #758bbe;
+}
+footer{
+    background-color: rgba(19, 136, 231, 0.77);
+}
+footer a{
+    display: flex;
+    align-items: center;
+    border: 1px solid whitesmoke;
+    width: 100%;
+    color: whitesmoke;
+}
