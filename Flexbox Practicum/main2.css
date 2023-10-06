@@ -22,6 +22,7 @@ html, body, div{
     cursor: pointer;
     width: 10rem;
     padding: 0.8rem 0;
+    border-bottom: 2px solid transparent;
 }
 .tabs:hover{
     border-bottom: 2px solid deepskyblue;
