@@ -1,0 +1,24 @@
+html, body, section, div{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#atf{
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    border: 0.5px solid rgba(84, 81, 81, 0.51);
+    display: flex;
+    justify-content: center;
+    width: 10rem;
+    border-radius: 100%;
+}
+svg{
+    border-radius: 100%;
+    fill: #a1aec2;
+}

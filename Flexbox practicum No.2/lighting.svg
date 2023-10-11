@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="157.83064"
+       y="357.87179"
+       width="407.42327"
+       height="335.84891"
+       id="rect2" />
+    <rect
+       x="214.72307"
+       y="356.03655"
+       width="306.48507"
+       height="304.64983"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       d="m 164.76758,363.12109 h -2.71875 l 1.00781,-3.02343 c 0.0937,-0.375 -0.1875,-0.72657 -0.53906,-0.72657 h -3.375 c -0.28125,0 -0.53906,0.21094 -0.5625,0.49219 l -0.75,5.625 c -0.0469,0.35156 0.21094,0.63281 0.5625,0.63281 h 2.76562 l -1.07812,4.57032 c -0.0703,0.35156 0.1875,0.67968 0.53906,0.67968 0.21094,0 0.39844,-0.0937 0.49219,-0.28125 l 4.125,-7.125 c 0.23437,-0.35156 -0.0469,-0.84375 -0.46875,-0.84375 z"
+       id="text1"
+       style="font-family:'Font Awesome 5 Free';-inkscape-font-specification:'Font Awesome 5 Free';white-space:pre"
+       transform="matrix(16.933333,0,0,16.933333,-2630.9682,-6038.4504)"
+       aria-label="" />
+  </g>
+</svg>

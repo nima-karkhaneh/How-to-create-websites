@@ -1,0 +1,50 @@
+html, body, section, div{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 2.5vw;
+    color: grey;
+}
+#atf{
+    height: 100vh;
+    display: flex;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+section > div{
+    width: 25rem;
+    padding: 1rem;
+    border: 2px solid grey;
+    border-radius: 0.3rem;
+}
+.top-tab{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border-bottom: 2px solid grey;
+}
+.middle-tab{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    border-bottom: 2px solid grey;
+}
+.bottom-tab{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border-bottom: none;
+}
+svg{
+    width: 4rem;
+    fill: #758bbe;
+}
+.middle-tab > svg{
+    margin-right: 1.5rem;
+}
+.middle-tab > span{
+    margin-left: 1.2rem;
+}

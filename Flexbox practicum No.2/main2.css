@@ -1,0 +1,30 @@
+html, body, nav, div{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: deepskyblue;
+    font-size: 2vw;
+    text-align: center;
+}
+#atf{
+    height: 100vh;
+    width: 6rem;
+   border-right: 1px solid gainsboro;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+}
+.tabs {
+    padding: 0.5rem;
+}
+.tabs:hover{
+    background-color: gainsboro;
+    cursor: pointer;
+}
+.abv{
+    margin-top: 1rem;
+}
+.blw{
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,43 @@
+html, body, section, div, span{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#atf{
+    height: 100vh;
+    font-size: 2vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+}
+.tabs{
+    border: 1px solid grey;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.middle{
+    padding: 1rem;
+}
+.bottom{
+    border-top: 1px solid grey;
+    background-color: #e4e6ec;
+    padding: 1rem;
+}
+svg{
+    width:100%;
+    height: 1em;
+    fill: #9dabce;
+    font-size: 20rem;
+}
